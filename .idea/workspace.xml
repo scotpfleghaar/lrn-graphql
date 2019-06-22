@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="049c1b5a-edb5-4197-9df6-a81d756a0dfa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/graphql-basics/src/myModule.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql-basics/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/graphql-basics/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graphql-basics/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/graphql-basics/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graphql-basics/src/myModule.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,16 +22,7 @@
         <entry file="file://$PROJECT_DIR$/graphql-basics/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
-              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/graphql-basics/src/myModule.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="13" selection-end-column="18" />
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -38,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/graphql-basics/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="575">
+              <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -48,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/graphql-basics/.babelrc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -151,12 +143,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561125037053</updated>
-      <workItem from="1561125039583" duration="1963000" />
+      <workItem from="1561125039583" duration="3277000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1963000" />
+    <option name="totallyTimeSpent" value="3277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-266" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -167,11 +159,11 @@
       <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17798841" />
       <window_info anchor="bottom" id="Docker" order="0" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" weight="0.25150904" />
+      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.250503" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32997987" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32997987" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -188,14 +180,14 @@
     <entry file="file://$PROJECT_DIR$/graphql-basics/.babelrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/graphql-basics/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
-          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -208,8 +200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/graphql-basics/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="575">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
         </state>
       </provider>
     </entry>
