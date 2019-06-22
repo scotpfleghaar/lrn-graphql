@@ -1,1 +1,3 @@
-console.log("Working!");
+import { print } from './myModule';
+
+print('Working!');
