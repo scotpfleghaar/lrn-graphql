@@ -68,6 +68,10 @@ const typeDefs = `
         me: User!
         post: Post!
     }
+    
+    type Mutation {
+        createUser(name: String!, email: String!, age: Int): User!
+    }
 
     type User {
         id: ID!
@@ -143,6 +147,11 @@ const resolvers = {
             }
         }
     },
+    Mutation: {
+        createUser(parent, args, ctx, info) {
+            console.log(args)
+        }
+    },
     Post: {
         author(parent, args, ctx, info) {
             return users.find((user) => {
@@ -156,7 +165,7 @@ const resolvers = {
         }
     },
     Comment: {
-        author(parent, args, ctx, info){
+        author(parent, args, ctx, info) {
             return users.find((user) => {
                 return user.id === parent.author
             })
